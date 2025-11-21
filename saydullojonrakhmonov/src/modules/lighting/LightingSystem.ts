@@ -1,19 +1,24 @@
-export interface ILightSystem {
-  tunrOn(): void;
-  tunrOff(): void;
+export interface ILightingSystem {
+  turnOn(): void;
+  turnOff(): void;
   autoMode(isNight: boolean): void;
 }
 
-export class LightingSystem implements ILightSystem {
-  tunrOn() {
-    console.log("Lights in accross the city");
+export class LightingSystem implements ILightingSystem {
+  turnOn(): void {
+    console.log("Lights ON across the city");
   }
-  tunrOff() {
-    console.log("Ligthts off");
+
+  turnOff(): void {
+    console.log("Lights OFF");
   }
+
   autoMode(isNight: boolean): void {
-    isNight ? this.tunrOn() : this.tunrOff();
+    if (isNight) {
+      this.turnOn();
+    } else {
+      this.turnOff();
+    }
   }
 }
-
  

@@ -4,9 +4,9 @@ export interface ITransportSystem {
   optimizeRoutes(): void;
 }
 
-export class TransposrtSystem implements ITransportSystem {
+export class TransportSystem implements ITransportSystem {
   startTraffic(): void {
-    console.log("Traffic light:Green");
+    console.log("Traffic light: Green");
   }
   stopTraffic(): void {
     console.log("Traffic light: Red");

@@ -4,10 +4,24 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+  "dev": "tsx watch src/main.ts",
+    "start": "ts-node  src/main.ts",
+    "test": "ts-node src/test.ts"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "smartcity",
+    "design-patterns",
+    "typescript",
+    "oop"
+  ],
+  "author": "Saydullojon Rakhmonov",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.6"
+  }
 }

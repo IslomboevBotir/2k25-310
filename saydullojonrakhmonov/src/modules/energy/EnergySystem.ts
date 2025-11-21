@@ -11,5 +11,3 @@ export class EnergySystem implements IEnergySystem {
     console.log("Energy usage 58% normal");
   }
 }
-
-
