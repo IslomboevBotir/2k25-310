@@ -6,7 +6,8 @@ use SmartCity\Patterns\Factory\SensorFactory;
 use SmartCity\Patterns\Builder\EmergencyBuilder;
 use SmartCity\Patterns\Proxy\SecurityProxy;
 
-function test(bool $condition, string $name): void {
+function test(bool $condition, string $name): void
+{
     echo $condition ? "✅ PASS: $name\n" : "❌ FAIL: $name\n";
 }
 
