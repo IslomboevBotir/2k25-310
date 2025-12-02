@@ -1,0 +1,82 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/YaqubAliy/SmartCity/SmartCity.csproj
+/YaqubAliy/SmartCity/SmartCity.csproj
+## Visual Studio cache/options directory
+.vs/
+.vscode/
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+## Visual Studio Code
+.vscode/
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## Cache files
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+*.opensdf
+*.sdf
+*.cache
+ipch/
+
+## VS Code Copilot
+CopilotIndices/
+FileContentIndex/
+DesignTimeBuild/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Temporary files
+*.tmp
+*.log
+*.vsidx
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.db
+*.db-shm
+*.db-wal
