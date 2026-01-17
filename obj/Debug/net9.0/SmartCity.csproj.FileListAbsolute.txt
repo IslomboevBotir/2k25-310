@@ -40,3 +40,4 @@ C:\Users\Asus\Desktop\SmartCity\obj\Debug\net9.0\refint\SmartCity.dll
 C:\Users\Asus\Desktop\SmartCity\obj\Debug\net9.0\SmartCity.pdb
 C:\Users\Asus\Desktop\SmartCity\obj\Debug\net9.0\SmartCity.genruntimeconfig.cache
 C:\Users\Asus\Desktop\SmartCity\obj\Debug\net9.0\ref\SmartCity.dll
+C:\Users\Asus\Desktop\SmartCity\obj\Debug\net9.0\SmartCity.sourcelink.json
