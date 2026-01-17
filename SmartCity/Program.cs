@@ -2,7 +2,6 @@
 using SmartCitySystem.Core;
 using SmartCitySystem.Core.Proxy;
 using SmartCitySystem.Modules.Security;
-
 class Program
 {
     static void Main(string[] args)
