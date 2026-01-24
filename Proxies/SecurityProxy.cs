@@ -39,9 +39,7 @@ public sealed class RoleBasedAccessPolicy : IAccessPolicy
     }
 }
 
-/// <summary>
-/// Proxy: controls access to the Security subsystem and blocks unauthorized operations.
-/// </summary>
+
 public sealed class SecurityProxy : ISecuritySubsystem
 {
     private readonly ISecuritySubsystem _inner;
