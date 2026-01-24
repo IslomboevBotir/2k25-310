@@ -1,0 +1,14 @@
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\bin\Debug\net10.0\SmartCitySystem.exe
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\bin\Debug\net10.0\SmartCitySystem.deps.json
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\bin\Debug\net10.0\SmartCitySystem.runtimeconfig.json
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\bin\Debug\net10.0\SmartCitySystem.dll
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\bin\Debug\net10.0\SmartCitySystem.pdb
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\obj\Debug\net10.0\SmartCitySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\obj\Debug\net10.0\SmartCitySystem.AssemblyInfoInputs.cache
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\obj\Debug\net10.0\SmartCitySystem.AssemblyInfo.cs
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\obj\Debug\net10.0\SmartCitySystem.csproj.CoreCompileInputs.cache
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\obj\Debug\net10.0\SmartCitySystem.dll
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\obj\Debug\net10.0\refint\SmartCitySystem.dll
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\obj\Debug\net10.0\SmartCitySystem.pdb
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\obj\Debug\net10.0\SmartCitySystem.genruntimeconfig.cache
+C:\Users\Vokhidov\OneDrive\Ishchi stol\Topshiriq\SmartCitySystem\obj\Debug\net10.0\ref\SmartCitySystem.dll

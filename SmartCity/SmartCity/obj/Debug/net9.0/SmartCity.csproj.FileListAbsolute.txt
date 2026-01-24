@@ -1,0 +1,15 @@
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/bin/Debug/net9.0/SmartCity
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/bin/Debug/net9.0/SmartCity.deps.json
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/bin/Debug/net9.0/SmartCity.runtimeconfig.json
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/bin/Debug/net9.0/SmartCity.dll
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/bin/Debug/net9.0/SmartCity.pdb
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/obj/Debug/net9.0/SmartCity.GeneratedMSBuildEditorConfig.editorconfig
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/obj/Debug/net9.0/SmartCity.AssemblyInfoInputs.cache
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/obj/Debug/net9.0/SmartCity.AssemblyInfo.cs
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/obj/Debug/net9.0/SmartCity.csproj.CoreCompileInputs.cache
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/obj/Debug/net9.0/SmartCity.dll
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/obj/Debug/net9.0/refint/SmartCity.dll
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/obj/Debug/net9.0/SmartCity.pdb
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/obj/Debug/net9.0/SmartCity.genruntimeconfig.cache
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/obj/Debug/net9.0/ref/SmartCity.dll
+/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/obj/Debug/net9.0/SmartCity.sourcelink.json

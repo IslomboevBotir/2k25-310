@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMcdAHKVw+A=",
+  "success": true,
+  "projectFilePath": "/home/theaxmedovv/Dev/CSharp/2K25-310/SmartCity/SmartCity.csproj",
+  "expectedPackageFiles": [
+    "/home/theaxmedovv/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

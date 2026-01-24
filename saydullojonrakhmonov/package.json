@@ -1,0 +1,27 @@
+{
+  "name": "saydullojonrakhmonov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+  "dev": "tsx watch src/main.ts",
+    "start": "ts-node  src/main.ts",
+    "test": "ts-node src/test.ts"
+  },
+  "keywords": [
+    "smartcity",
+    "design-patterns",
+    "typescript",
+    "oop"
+  ],
+  "author": "Saydullojon Rakhmonov",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.6"
+  }
+}
