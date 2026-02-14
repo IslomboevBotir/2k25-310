@@ -19,21 +19,18 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("╔══════════════════════════════════════════╗");
-        Console.WriteLine("║   Smart City Management System v1.0     ║");
+        Console.WriteLine(" ║   Smart City Management System v1.0    ║");
         Console.WriteLine("╚══════════════════════════════════════════╝\n");
 
-        // Demonstrate Builder Pattern - Create city configuration
         Console.WriteLine("--- Initializing City Configuration (Builder Pattern) ---");
         var builder = new CityConfigurationBuilder();
         var director = new CityDirector(builder);
         var cityConfig = director.BuildLargeCity("Smart Metropolis");
         cityConfig.DisplayConfiguration();
 
-        // Use Facade Pattern to initialize the system
         var smartCity = new SmartCityFacade();
         smartCity.InitializeCity();
 
-        // Main menu loop
         bool running = true;
         while (running)
         {
